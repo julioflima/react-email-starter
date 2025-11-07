@@ -13,6 +13,7 @@
     "react": "^19.0.0"
   },
   "devDependencies": {
+    "next": "*",
     "@react-email/preview-server": "4.3.2",
     "@types/react": "^19.0.1",
     "@types/react-dom": "^19.0.1",
